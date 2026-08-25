@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ORD-101",
+    "customer": "Priya Vishwakarma",
+    "items": [
+      { "name": "Onesie - 0-3M", "qty": 2, "price": 599 },
+      { "name": "Swaddle Wrap", "qty": 1, "price": 899 }
+    ],
+    "status": "fulfilled"
+  },
+  {
+    "id": "ORD-102",
+    "customer": "Anurag Shrivastva",
+    "items": [{ "name": "Baby Romper", "qty": 3, "price": 699 }],
+    "status": "pending"
+  },
+  {
+    "id": "ORD-103",
+    "customer": "Sunita Pariyar",
+    "items": [
+      { "name": "Onesie - 3-6M", "qty": 1, "price": 599 },
+      { "name": "Cap Set", "qty": 2, "price": 349 }
+    ],
+    "status": "cancelled"
+  },
+  {
+    "id": "ORD-104",
+    "customer": "Vishal kumar",
+    "items": [{ "name": "Sleepsuit", "qty": 4, "price": 649 }],
+    "status": "fulfilled"
+  },
+  {
+    "id": "ORD-105",
+    "customer": "Neha Kapoor",
+    "items": [
+      { "name": "Bib Set", "qty": 2, "price": 349 },
+      { "name": "Muslin Cloth", "qty": 3, "price": 299 }
+    ],
+    "status": "pending"
+  }
+]
